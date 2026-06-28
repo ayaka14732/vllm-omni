@@ -38,7 +38,7 @@ examples in this repository.
 - GPU: NVIDIA GeForce RTX 5090, 32 GB (`32607 MiB`)
 - vLLM version: 0.23.0
 - vLLM-Omni version or commit: 0.23.0rc2.dev140+gbe60d7c7c (`be60d7c7`)
-- Required package: `mistral-common==1.11.5`
+- Tested with: `mistral-common==1.11.5`
 
 #### Command
 
